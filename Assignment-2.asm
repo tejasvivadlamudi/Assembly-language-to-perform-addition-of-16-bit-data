@@ -1,4 +1,4 @@
-                                                                          org 100h ; Start address for the program
+org 100h ; Start address for the program
 
 ; Define two 16-bit numbers to add
 num1 dw 0A1Bh ; First 16-bit number
